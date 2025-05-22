@@ -13,7 +13,7 @@
 http://localhost:8080/
 
 ### Api: 
-http://localhost/api/whois?domain=en.wikipedia.org
+http://localhost:8080/api/whois?domain=en.wikipedia.org
 http://localhost:8080/api/whois?domain=trust-view.com.ua
 
 ## Stop app
